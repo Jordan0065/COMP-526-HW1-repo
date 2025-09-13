@@ -1,5 +1,5 @@
 # COMP-526-HW1-repo
 
-#(**This is the README**)
+# (**This is the README**)
 
-##(*Here is a test of a style*)
+## (*Here is a test of a style*)
