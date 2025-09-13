@@ -2,4 +2,4 @@
 
 # (**This is the README**)
 
-## (*Here is a test of a style*)
+## (_Here is a test of a style_)
